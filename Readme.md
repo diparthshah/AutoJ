@@ -2,9 +2,7 @@
 
 * Download : Dowload as zip or clone the repo 
 
-'''''''''''''''''''''''''''
 git clone https://github.com/diparthshah/AutoJ
-'''''''''''''''''''''''''''
 
 * Now open /usr/bin folder as root user 
 
